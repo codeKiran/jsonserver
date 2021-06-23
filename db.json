@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "id": "0b0a041b-5690-4364-8fa5-d7ab4c90448f",
+      "name": "Srujana Roy",
+      "email": "srujanaroy745@gmail.com"
+    },
+    {
+      "id": "6a8e65a2-56d9-4a7c-b022-e112ab27f54a",
+      "name": "Bavana",
+      "email": "chinni@kanna.com"
+    },
+    {
+      "id": "d57c3fa7-0e30-43e8-baa6-3646c29bf3b0",
+      "name": "devilzz",
+      "email": "cute@love.com"
+    },
+    {
+      "id": "4a68d404-50c4-42cc-878f-d02558fa4b40",
+      "name": "G SASI KIRAN",
+      "email": "gangula.shasikiran@gmail.com"
+    },
+    {
+      "id": "7b2f5f56-25af-4a28-8cb9-f48f01027f0b",
+      "name": "test",
+      "email": "hh"
+    }
+  ]
+}
